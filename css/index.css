@@ -194,7 +194,8 @@ body { font-family: 'Open Sans', sans-serif; color: rgb(68, 68, 68); line-height
          box-shadow: 0 0 0 35px rgba(0, 0, 0, 0);
 }
 }
-.reviews { padding: 1rem 0px; margin-bottom: 20px;}
+.reviews { padding: 1rem 0px; margin-bottom: 20px;
+  margin-top: 80px;}
 .wrapper-padding { width: 100%; padding: 0px; margin: auto; height: 100%; position: relative; z-index: 5; }
 .reviews__title { border-bottom: 1px solid rgb(0, 0, 0); background-color: rgb(216, 222, 224); margin-bottom: 20px; padding: 5px;}
 .reviews__title h3 { color: rgb(33, 150, 243); font-weight: 700; font-size: 22px; line-height: 17px; margin:0; margin-left: 0.5rem;}
